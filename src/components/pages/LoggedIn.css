@@ -1,0 +1,12 @@
+.loggedIn {
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h3 {
+    text-shadow: 2px 2px green;
+    font-size: 50px;
+    color: yellowgreen;
+}

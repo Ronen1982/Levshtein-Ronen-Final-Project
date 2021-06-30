@@ -1,0 +1,14 @@
+.group p {
+  color: red;
+}
+.card {
+  width: 100%;
+}
+.card-text {
+  text-align: center;
+}
+.card-body {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,11 @@
+.sec-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.btn {
+  padding: 10px;
+}
+.register p {
+  color: blue;
+}
